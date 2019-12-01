@@ -1,6 +1,5 @@
 package podstawy.zadania.Sortowanie;
 
-import java.util.Scanner;
 
 public class CiagFibon {
     public static void main(String[] args) {
